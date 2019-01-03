@@ -38,7 +38,7 @@ print("Hello World")
 # 3. 在一行的起始位置放一个“#”字符。它的作用是什么，自己研究一下。
 print("Hello World")
 print("Hello Again")
-# print("I like typing this.")
+# print("I like typing this.")  # 是进行注释
 print("This is fun.")
 print("Yay! Printing.")
 print("I'd much rather you 'not'.")
